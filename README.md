@@ -1,4 +1,4 @@
-# Software Engineering Quality Framework
+# Data Engineering Quality Framework
 
 ## Purpose
 

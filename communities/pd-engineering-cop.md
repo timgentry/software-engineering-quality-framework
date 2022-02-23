@@ -21,7 +21,7 @@ Andy Blundell ([andyblundell](https://github.com/andyblundell))
   * Playing an active role in maintaining the internal technology radar.
   * Being aware of and assessing new and emerging technologies.
 * Help individuals and teams **find solutions** to the specific engineering challenges they face.
-* Maintain references to **learning resources** relevant to each part of the [Software Engineering Quality Framework](../README.md)
+* Maintain references to **learning resources** relevant to each part of the [Data Engineering Quality Framework](../README.md)
 
 Goals to be reviewed December 2020
 
@@ -38,7 +38,7 @@ Initially this CoP will cast a very wide net and cover front-end, back-end and p
 ## Members
 
 * The CoP will have a core group who work together to deliver the CoP goals for the wider engineering community.
-* Core members will be ambassadors for the CoP, the [Software Engineering Quality Framework](../README.md) and the Tech Radar.
+* Core members will be ambassadors for the CoP, the [Data Engineering Quality Framework](../README.md) and the Tech Radar.
 * Members will be expected to attend and contribute at the regular core group meetings.
 * Occasional time commitment outside these meetings will also be necessary, e.g. to prepare a presentation or hack event or to help others to do so.
 

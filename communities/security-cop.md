@@ -16,16 +16,16 @@ For secure development and operation of systems:
 
 * **Share** knowledge:
   * Provide advice and guidance as requested
-  * Facilitate good practice discussions, and curate relevant principles, practices and patterns within the [Software Engineering Quality Framework](../README.md)
-  * Curate relevant Training Pathways within the [Software Engineering Quality Framework](../README.md)
-  * Curate relevant section(s) within the [Software Engineering Review Tool](../insights/review.md)
+  * Facilitate good practice discussions, and curate relevant principles, practices and patterns within the [Data Engineering Quality Framework](../README.md)
+  * Curate relevant Training Pathways within the [Data Engineering Quality Framework](../README.md)
+  * Curate relevant section(s) within the [Data Engineering Review Tool](../insights/review.md)
   * Provide supplementary learning in relevant areas (e.g. workshops)
   * Discuss, disseminate and feedback on the output of the Cyber Design Authority
 * **Build** knowledge:
   * Organise learning events (e.g. guest speakers)
   * Organise events to practice security (e.g. security jams)
   * Evaluate candidate security tools
-  * Form mini-groups to respond to "how do I..." questions from teams - generating examples in the [Software Engineering Quality Framework](../README.md)
+  * Form mini-groups to respond to "how do I..." questions from teams - generating examples in the [Data Engineering Quality Framework](../README.md)
 
 Goals to be reviewed after 3 months
 
