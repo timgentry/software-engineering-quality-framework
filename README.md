@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This framework is concerned with using "good" software engineering to support rapid and safe delivery of high-quality software, at scale
+This framework is concerned with using "good" data engineering to support rapid and safe delivery of high-quality software, at scale
 
 It aims to:
 1. Describe a shared (across multiple teams) definition of "good" engineering
@@ -15,7 +15,7 @@ It aims to:
 The philosophy underpinning this framework advocates:
 * Empowered teams which are accountable for their products
 * Rapid, iterative and incremental development: "Release early. Release often. And listen to your customers." (Eric S. Raymond in [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar))
-* Reliable services, remembering "Everything fails, all the time" (Werner Vogels), and treating operations as a software engineering challenge (as in Google's [Site Reliability Engineering](https://landing.google.com/sre/))
+* Reliable services, remembering "Everything fails, all the time" (Werner Vogels), and treating operations as a data engineering challenge (as in Google's [Site Reliability Engineering](https://landing.google.com/sre/))
 
 ## Context
 

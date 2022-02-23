@@ -23,7 +23,7 @@ For individuals, this learning can become an important part of their personal an
 
 # Scope
 
-CoPs are formed around a single subject which should be neither so narrow as to give little value to members (e.g. unit testing), nor so broad that it is difficult to find topics within the subject which are of broad interest to the group (e.g. all of software engineering). We discuss scope more in [Format](#format), as the scope can have an influence on the most appropriate format. As well as being of interest to members, to attract investment (see [Time](#time)) the subject should also be of relevance to the goals of the organisation, e.g. testing would be an appropriate subject for an organisation which delivers software, basket weaving would not, public speaking may be.
+CoPs are formed around a single subject which should be neither so narrow as to give little value to members (e.g. unit testing), nor so broad that it is difficult to find topics within the subject which are of broad interest to the group (e.g. all of data engineering). We discuss scope more in [Format](#format), as the scope can have an influence on the most appropriate format. As well as being of interest to members, to attract investment (see [Time](#time)) the subject should also be of relevance to the goals of the organisation, e.g. testing would be an appropriate subject for an organisation which delivers software, basket weaving would not, public speaking may be.
 
 # Goals
 

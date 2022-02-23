@@ -6,7 +6,7 @@ There is some overlap with the [Test Automation Working Group](pd-test-automatio
 
 ## Subject
 
-All aspects of software engineering in NHS Digital Product Development.
+All aspects of data engineering in NHS Digital Product Development.
 
 ## Sponsor
 
